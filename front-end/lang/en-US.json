@@ -1,0 +1,10 @@
+{
+    "code":"code",
+    "name":"name",
+    "brand":"brand",
+    "type":"type",
+    "group":"group",
+    "kind":"kind",
+    "size":"size",
+    "actions":"actions"
+}

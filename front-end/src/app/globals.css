@@ -1,7 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
+@import 'material-symbols';
+/* 
+<span class="material-symbols-outlined">face</span> <!-- Outlined -->
+<span class="material-symbols-rounded">face</span>  <!-- Rounded -->
+<span class="material-symbols-sharp">face</span>    <!-- Sharp --> 
+*/
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
